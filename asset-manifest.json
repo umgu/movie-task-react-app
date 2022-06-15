@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/movie-task-react-app/static/css/main.fc5c2c69.css",
-    "main.js": "/movie-task-react-app/static/js/main.c016393f.js",
-    "index.html": "/movie-task-react-app/index.html",
-    "main.fc5c2c69.css.map": "/movie-task-react-app/static/css/main.fc5c2c69.css.map",
-    "main.c016393f.js.map": "/movie-task-react-app/static/js/main.c016393f.js.map"
+    "main.css": "/movies-task-react/static/css/main.fc5c2c69.css",
+    "main.js": "/movies-task-react/static/js/main.c016393f.js",
+    "index.html": "/movies-task-react/index.html",
+    "main.fc5c2c69.css.map": "/movies-task-react/static/css/main.fc5c2c69.css.map",
+    "main.c016393f.js.map": "/movies-task-react/static/js/main.c016393f.js.map"
   },
   "entrypoints": [
     "static/css/main.fc5c2c69.css",
